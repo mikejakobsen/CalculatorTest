@@ -4,4 +4,7 @@
 
 #### mikejakobsen.com mike@jakobsen.dk
 
-
+```
+npm install
+npm run test
+```
